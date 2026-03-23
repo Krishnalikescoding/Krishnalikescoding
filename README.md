@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 👨‍💻 All of my projects are available at [krishnaguptafun.netlify.app](krishnaguptafun.netlify.app)
+- 👨‍💻 All of my projects are available at [krishnaguptafun.netlify.app]([krishnaguptafun.netlify.app](https://krishnaguptadev.netlify.app/))
 
 - 📫 How to reach me **guptakrishnadhananjay@gmail.com**
 
