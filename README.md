@@ -26,11 +26,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnalikescoding&theme=tokyonight&hide_border=true" alt="krishnalikescoding" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnalikescoding&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=krishnalikescoding&icon=0&color=6" alt="profile views" />
-</p>
